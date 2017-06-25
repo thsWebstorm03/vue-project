@@ -1,6 +1,6 @@
 # vueoverflow
 
-> An StackOverflow Wrapper with VueJS
+> A StackOverflow Wrapper with VueJS
 
 ## Build Setup
 

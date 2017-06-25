@@ -1,7 +1,7 @@
 {
   "name": "vueoverflow",
   "version": "1.0.0",
-  "description": "An StackOverflow Wrapper with VueJS",
+  "description": "A StackOverflow Wrapper with VueJS",
   "author": "Ali GÖREN <goren.ali@yandex.com>",
   "private": true,
   "scripts": {
